@@ -1,0 +1,38 @@
+body 
+{
+	height:100vh;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	background-image:url(../Images/19.jpg);
+	background-size:cover;
+	background-position:none;
+}
+.img-wrap
+{
+	width:100%;
+}
+
+.img-wrap img
+{
+	width:100%;
+	padding:10px;
+	border-radius:60%;
+	box-shadow:0 0 10px #999999;
+}
+
+#contactus h2
+{
+	margin-bottom:25px;
+}
+
+
+footer{
+	width:100%;
+	height: auto;
+	background-color:grey;
+	color: white;
+	font-size: 23px;
+	text-align: center;
+	line-height: 50px;
+}
